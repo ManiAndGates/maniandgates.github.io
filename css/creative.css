@@ -301,6 +301,7 @@ header .header-content .header-content-inner p {
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
+    text-transform: capitalize;
     font-size: 18px;
 }
 
